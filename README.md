@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Html, Css, Type Script**
+- 💬 Ask me about **Html, Css, TypeScript**
 
 - 📫 How to reach me **lukzielinski@int.pl**
 
